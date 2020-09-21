@@ -1,18 +1,3 @@
-/*
-  Theme Name: NewBiz
-  Theme URL: https://bootstrapmade.com/newbiz-bootstrap-business-template/
-  Author: BootstrapMade.com
-  License: https://bootstrapmade.com/license/
-*/
-
-/*--------------------------------------------------------------
-# General
---------------------------------------------------------------*/
-
-/*html {
-  scroll-behavior: smooth;
-}*/
-
 body {
   background: #fff;
   color: #444;
@@ -38,7 +23,7 @@ img {
 
 @font-face {
   font-family: Nomine;
-  src:url('http://try.nomine.id/assets/fonts/font-logo.TTF');
+  src:url('https://cdn.jsdelivr.net/gh/AnaaRoxy/nomineCDN/assets/fonts/font-logo.TTF');
 }
 
 a {
@@ -204,7 +189,7 @@ h6 {
 #intro-btm {
   width: 100%;
   position: relative;
-  background: url("http://try.nomine.id/assets/img/sub-headline1.png") center bottom no-repeat;
+  background: url("https://cdn.jsdelivr.net/gh/AnaaRoxy/nomineCDN/assets/img/sub-headline1.png") center bottom no-repeat;
   background-size: cover;
   padding: 200px 0 120px 0;
 }
@@ -218,7 +203,7 @@ h6 {
 #intro {
   width: 100%;
   position: relative;
-  background: url("http://try.nomine.id/assets/img/header-bg-skyblue -1.png") center bottom no-repeat;
+  background: url("https://cdn.jsdelivr.net/gh/AnaaRoxy/nomineCDN/assets/img/header-bg-skyblue -1.png") center bottom no-repeat;
   background-size: cover;
   padding: 200px 0 120px 0;
 }
@@ -546,7 +531,7 @@ h6 {
 #about-bg {
   width: 100%;
   position: relative;
-  background: url("http://try.nomine.id/assets/img/halobund.png") center bottom no-repeat;
+  background: url("https://cdn.jsdelivr.net/gh/AnaaRoxy/nomineCDN/assets/img/halobund.png") center bottom no-repeat;
   background-size: cover;
   padding: 200px 0 0px 0;
 }
